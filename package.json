@@ -1,7 +1,7 @@
 {
+  "type": "module",
   "name": "Gm",
   "version": "1.0.0",
-  "type": "module",
   "engines": {
     "node": "24.x"
   },
